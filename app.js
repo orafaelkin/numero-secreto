@@ -1,4 +1,4 @@
-alert('Salve Rafa, seu sortudo!'); // escreve uma mensagem na tela
+//alert('Salve Rafa, seu sortudo!'); // escreve uma mensagem na tela
 alert('Bem vindo ao jogo do número secreto');
 let numeroMaximo = 1000;
 let numeroSecreto = parseInt(Math.random()* numeroMaximo)+1; // variável
