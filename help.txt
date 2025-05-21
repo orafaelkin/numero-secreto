@@ -1,0 +1,15 @@
+alert('') [ usado para escreve na tela]
+prompt('') [ usado para abrir um bloco de interação]
+let [ usado para iniciar variável ex:  let num = 10]
+= [ usado para atribuir um valor na variável]
+== [ usado para comparar valores dentro de um if]
+{} [ usado para definir a ação]
+${} [usado para buscar valor de variavel com string ex: ('teste ${variavel}')]
+Math.random() [ gera numero aleatório com casas decimais]
+Math.random() *10 [ gera numero aleatório com casas decimais x 10]
+parseInt(Math.random() *10) [ gera numero aleatório sem casas decimais apenas interos  1,2,3...]
+
+operadores lógicos
+!= [ não igual]
+== [igual]
+> [ maior ]
