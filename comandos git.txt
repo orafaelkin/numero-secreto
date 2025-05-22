@@ -1,0 +1,22 @@
+git init = cria um novo repositório local
+git clone https://github.com/usuario/repositorio.git = clone um repositporio
+git status = mostra arquivos modificados prontos para commit
+git add nome_do_arquivo = adiciona o arquivo na stage
+ou git add . = adiciona todos os arquivo modificados na stage
+git commit -m "mensagem qualquer" = salva as alterações do stage no histórico do git
+git log = lista os commits anteriores (use q para sair)
+git branch nova-branch = cria uma nova branch
+git checkout nova-branch = alterna entre branchs
+git checkout -b nova-branch = cria e altera ao mesmo tempo
+git pull origin main ou só git pull = puxa alterações da branch main remota para local
+git push = envia a branch pro remoto
+git merge nome-da-outra-branch = mescla a branch na branch atual
+git branch -d nome-da-branch = deleta a branch local
+git push origin --delete nome-da-branch = deleta remota
+git restore nome-do-arquivo +
+git restore --staged nome-do-arquivo = remove do stage para commit
+git remote -v = ver repositorios remotos
+git remote set-url origin nova-url.git = altera url do reporsitório
+git diff = ver diferenças entre local e stage
+git diff --staged = diferença entre staged e último commit
+ssh -T git@github.com = testa conexão com o gitHub
