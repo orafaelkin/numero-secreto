@@ -1,0 +1,57 @@
+
+*** These modified files were found in JOE when it aborted on Thu May 29 18:23:19 2025
+*** JOE was aborted by UNIX signal 1
+
+*** File '/home/celk/Área de Trabalho/Cursos/js/logica-js-projeto_inicial/.git/MERGE_MSG'
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+*** File '(Unnamed)'
+programas/jboss/standalone/deployments/saude-leitura-ds.xml
+programas/jboss/standalone/deployments/saude-ds.xml
+programas/jboss/standalone/deployments/saude-leitura-ds.xml
+programas/jboss/flyway/conf/flyway.properties
+programas/jboss/flyway/flyway.sh
+info
+programas/jboss/flyway/flyway.sh
+info
+programas/jboss/flyway/conf/flyway.properties
+programas/jboss/bin/standalone.conf
+/home/celk/Área de Trabalho/Cursos/js/logica-js-projeto_inicial/.git/MERGE_MSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Thu May 29 18:23:20 2025
+*** JOE was aborted by UNIX signal 1
+
+*** File '/home/celk/Área de Trabalho/Cursos/js/logica-js-projeto_inicial/.git/MERGE_MSG'
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+
+*** File '(Unnamed)'
+programas/jboss/standalone/deployments/saude-leitura-ds.xml
+programas/jboss/standalone/deployments/saude-ds.xml
+programas/jboss/standalone/deployments/saude-leitura-ds.xml
+programas/jboss/flyway/conf/flyway.properties
+programas/jboss/flyway/flyway.sh
+info
+programas/jboss/flyway/flyway.sh
+info
+programas/jboss/flyway/conf/flyway.properties
+programas/jboss/bin/standalone.conf
+/home/celk/Área de Trabalho/Cursos/js/logica-js-projeto_inicial/.git/MERGE_MSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
