@@ -1,7 +1,7 @@
 alert('Salve Rafa, seu sortudo!'); // escreve uma mensagem na tela
 alert('Bem vindo ao jogo do número secreto');
 let numeroMaximo = 1000;
-let numeroSecreto = parseInt(Math.random()* numeroMaximo)+1; // variável
+let numeroSecreto = parseInt(Math.random()*1000 numeroMaximo)+1; // variável
 console.log(numeroSecreto);
 
 let chute;
