@@ -3,7 +3,7 @@ alert('Bem vindo ao jogo do número secreto');
 let numeroMaximo = 1000;
 let numeroSecreto = parseInt(Math.random()*1000 , numeroMaximo)+1; // variável
 console.log(numeroSecreto);
-// teste git
+// teste git,
 let chute;
 let tentativa = 1;
 //enquanto chute não for igual a numero secreto
