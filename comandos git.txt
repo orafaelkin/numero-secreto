@@ -19,5 +19,4 @@ git remote -v = ver repositorios remotos
 git remote set-url origin nova-url.git = altera url do reporsitório
 git diff = ver diferenças entre local e stage
 git diff --staged = diferença entre staged e último commit
-git revert + id do commit = revert o commit desfazendo alteração e cria-se outro automaticamente 
 ssh -T git@github.com = testa conexão com o gitHub.
